@@ -1,0 +1,2 @@
+# pySynth
+ a python synthesizer
